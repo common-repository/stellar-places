@@ -1,0 +1,238 @@
+# Copyright (C) 2020 Micah Wood
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stellar Places 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/stellar-places\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: stellar-places\n"
+
+#. Plugin Name of the plugin
+msgid "Stellar Places"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpscholar.com/wordpress-plugins/stellar-places/"
+msgstr ""
+
+#. Description of the plugin
+msgid "An intuitive plugin for easily creating, managing and displaying locations using Google Maps."
+msgstr ""
+
+#. Author of the plugin
+msgid "Micah Wood"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpscholar.com"
+msgstr ""
+
+#: includes/admin/settings-page.php:22
+msgid "Settings - Stellar Places"
+msgstr ""
+
+#: includes/admin/settings-page.php:23
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/settings-page.php:40
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings-page.php:44
+msgid "This plugin requires the use of the Google Maps JavaScript, Places, and Geolocation APIs."
+msgstr ""
+
+#: includes/admin/settings-page.php:52
+msgid "Google Maps API Key"
+msgstr ""
+
+#. translators: %1$s is the opening HTML tag for the API set up link, %2$s is the opening tag for the API documentation, %3$s is the opening tag for the API pricing, %4$s is the closing HTML link tag
+#: includes/admin/settings-page.php:60
+msgid "Use of Google Maps requires an API key. For most use cases, this is free to setup. %1$sGet a key%4$s now, or read more about %2$sauthentication%4$s and %3$spricing%4$s."
+msgstr ""
+
+#: includes/admin/settings-page.php:71
+msgid "Default Map Icon"
+msgstr ""
+
+#: includes/admin/settings-page.php:106
+msgid "Stellar Places Settings"
+msgstr ""
+
+#. translators: %1$s is the first result, %2$s is the last result, %3$s is the total results
+#: includes/classes/pagination-text.php:43
+msgid "Showing results %1$d - %2$d of %3$d"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-model.php:104
+msgid "Meta box HTML id must be a string"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-model.php:107
+msgid "Meta box title must be a string"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-model.php:110
+msgid "Meta box callback must be a callable function"
+msgstr ""
+
+#: includes/post-types/place.php:18
+msgctxt "post type general name"
+msgid "Places"
+msgstr ""
+
+#: includes/post-types/place.php:19
+msgctxt "post type singular name"
+msgid "Place"
+msgstr ""
+
+#: includes/post-types/place.php:20
+msgctxt "place"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/place.php:21
+msgid "Add New Place"
+msgstr ""
+
+#: includes/post-types/place.php:22
+msgid "Edit Place"
+msgstr ""
+
+#: includes/post-types/place.php:23
+msgid "New Place"
+msgstr ""
+
+#: includes/post-types/place.php:24
+msgid "View Place"
+msgstr ""
+
+#: includes/post-types/place.php:25
+msgid "Search Places"
+msgstr ""
+
+#: includes/post-types/place.php:26
+msgid "No places found"
+msgstr ""
+
+#: includes/post-types/place.php:27
+msgid "No places found in trash"
+msgstr ""
+
+#: includes/support/custom-icon.php:203
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/support/custom-icon.php:218
+#: includes/support/custom-icon.php:235
+msgid "Custom Map Icon"
+msgstr ""
+
+#: includes/support/location.php:93
+msgid "Location"
+msgstr ""
+
+#: includes/support/views/icon-picker.php:27
+msgid "Select a custom map icon:"
+msgstr ""
+
+#: includes/support/views/icon-picker.php:32
+msgid "Default"
+msgstr ""
+
+#: includes/support/views/location.php:107
+msgid "Enter a location"
+msgstr ""
+
+#: includes/support/views/location.php:111
+msgid "Find"
+msgstr ""
+
+#: includes/support/views/location.php:115
+msgid "Drag marker to reposition."
+msgstr ""
+
+#: includes/support/views/location.php:120
+#: includes/support/views/location.php:125
+msgid "Street Address"
+msgstr ""
+
+#: includes/support/views/location.php:131
+#: includes/support/views/location.php:136
+msgid "City"
+msgstr ""
+
+#: includes/support/views/location.php:142
+#: includes/support/views/location.php:147
+msgid "State"
+msgstr ""
+
+#: includes/support/views/location.php:153
+#: includes/support/views/location.php:158
+msgid "Postal Code"
+msgstr ""
+
+#: includes/support/views/location.php:164
+#: includes/support/views/location.php:169
+msgid "Country"
+msgstr ""
+
+#: includes/support/views/location.php:177
+#: includes/support/views/location.php:182
+msgid "Latitude"
+msgstr ""
+
+#: includes/support/views/location.php:188
+#: includes/support/views/location.php:193
+msgid "Longitude"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:25
+msgctxt "taxonomy general name"
+msgid "Location Categories"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:26
+msgctxt "taxonomy singular name"
+msgid "Location Category"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:27
+msgid "Edit Location Category"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:28
+msgid "View Location Category"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:29
+msgid "Update Location Category"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:30
+msgid "Add New Location Category"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:31
+msgid "New Location Category Name"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:32
+msgid "Parent Location Category"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:33
+msgid "Parent Location Category:"
+msgstr ""
+
+#: includes/taxonomies/location-category.php:34
+msgid "Search Location Categories"
+msgstr ""
